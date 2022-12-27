@@ -8,7 +8,7 @@ P  {
   font-weight : normal;
  }
  
- H1  {
+ h1  {
   font-size : 36pt;
   font-family : verdana,arial;
   text-decoration : underline;
@@ -23,7 +23,7 @@ P  {
   background-color : 666666;
  }
  
- BODY  {
+ body  {
   background-color : #080350;
   font-family : arial;
   color : rgb(255, 255, 255);
