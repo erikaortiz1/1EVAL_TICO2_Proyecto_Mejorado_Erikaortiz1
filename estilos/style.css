@@ -30,10 +30,15 @@ P  {
  }
 
  tbody {
-  border: blue 5px solid;
+  border: rgb(253, 253, 253) 5px solid;
 }
 
 table {
   margin: 15px;
   padding: 15px;
+}
+
+.paginaweb{
+  width:960px;
+  margin:auto;
 }
