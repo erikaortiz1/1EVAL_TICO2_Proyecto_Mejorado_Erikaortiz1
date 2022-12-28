@@ -28,3 +28,12 @@ P  {
   font-family : arial;
   color : rgb(255, 255, 255);
  }
+
+ tbody {
+  border: blue 5px solid;
+}
+
+table {
+  margin: 15px;
+  padding: 15px;
+}
