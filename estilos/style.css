@@ -1,5 +1,5 @@
 p {
-  font-size : 60pt;
+  font-size : 30pt;
   font-family : arial,helvetica;
   font-weight : normal;
  }
@@ -14,21 +14,21 @@ p {
 }
  
  h2  {
-  font-size : 18pt;
+  font-size : 40pt;
   font-family : verdana,arial;
   text-decoration : underline;
   text-align : center;
   background-color : rgb(1, 72, 112);
  }
  h3  {
-  font-size : 18pt;
+  font-size : 40pt;
   font-family : verdana,arial;
   text-decoration : underline;
   text-align : center;
   background-color : rgb(49, 164, 231);
  }
  h4  {
-  font-size : 18pt;
+  font-size : 40pt;
   font-family : verdana,arial;
   text-decoration : underline;
   text-align : center;
@@ -36,7 +36,7 @@ p {
  }
 
  h5  {
-  font-size : 18pt;
+  font-size : 40pt;
   font-family : verdana,arial;
   text-decoration : underline;
   text-align : center;
@@ -44,7 +44,7 @@ p {
  }
  
  h6 {
-  font-size : 18pt;
+  font-size : 40pt;
   font-family : verdana,arial;
   text-decoration : underline;
   text-align : center;
@@ -52,7 +52,7 @@ p {
  }
  
  h7  {
-  font-size : 18pt;
+  font-size : 40pt;
   font-family : verdana,arial;
   text-decoration : underline;
   text-align : center;
@@ -73,13 +73,7 @@ p {
   color : rgb(255, 255, 255);
  }
 
- tbody {
-  border: rgb(253, 253, 253) 5px solid;
-}
 
-body { 
-  font: size 6.5em;
- }
 
 
 table {
