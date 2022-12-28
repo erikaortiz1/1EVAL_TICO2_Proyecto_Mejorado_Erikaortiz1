@@ -84,13 +84,13 @@ body {
 
 table {
   width: 100%;
-  border: 1px solid #000;
+  border: 0.5px solid rgb(255, 254, 254);
 }
 th, td {
   width: 25%;
   text-align: left;
   vertical-align: top;
-  border: 1px solid #000;
+  border: 1px solid rgb(0, 0, 0);
   border-collapse: collapse;
   padding: 0.3em;
 }
