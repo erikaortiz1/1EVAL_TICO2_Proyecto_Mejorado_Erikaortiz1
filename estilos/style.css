@@ -1,8 +1,4 @@
 p {
-  border: rgb(10, 165, 212) 5px double;
-}
-
-P  {
   font-size : 12pt;
   font-family : arial,helvetica;
   font-weight : normal;
@@ -15,6 +11,53 @@ P  {
   text-align : center;
   background-color : rgb(23, 125, 184);
  }
+ 
+ h2  {
+  font-size : 36pt;
+  font-family : verdana,arial;
+  text-decoration : underline;
+  text-align : center;
+  background-color : rgb(1, 72, 112);
+ }
+ h3  {
+  font-size : 36pt;
+  font-family : verdana,arial;
+  text-decoration : underline;
+  text-align : center;
+  background-color : rgb(49, 164, 231);
+ }
+ h4  {
+  font-size : 36pt;
+  font-family : verdana,arial;
+  text-decoration : underline;
+  text-align : center;
+  background-color : rgb(2, 47, 73);
+ }
+
+ h5  {
+  font-size : 36pt;
+  font-family : verdana,arial;
+  text-decoration : underline;
+  text-align : center;
+  background-color : rgb(29, 136, 207);
+ }
+ 
+ h6 {
+  font-size : 36pt;
+  font-family : verdana,arial;
+  text-decoration : underline;
+  text-align : center;
+  background-color : rgb(78, 186, 248);
+ }
+ 
+ h7  {
+  font-size : 36pt;
+  font-family : verdana,arial;
+  text-decoration : underline;
+  text-align : center;
+  background-color : rgb(5, 160, 250);
+ }
+ 
  
  TD  {
   font-size : 10pt;
