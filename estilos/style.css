@@ -42,3 +42,7 @@ table {
   width:960px;
   margin:auto;
 }
+
+p.fotopeliculas {
+  text-align: center;
+}
