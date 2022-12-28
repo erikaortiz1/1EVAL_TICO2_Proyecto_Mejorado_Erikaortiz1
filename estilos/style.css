@@ -77,6 +77,10 @@ p {
   border: rgb(253, 253, 253) 5px solid;
 }
 
+body { 
+  font: size 3.5em;em;
+ }
+
 table {
   margin: 15px;
   padding: 15px;
