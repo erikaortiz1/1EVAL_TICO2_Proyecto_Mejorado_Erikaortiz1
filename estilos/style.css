@@ -81,27 +81,27 @@ body {
   font: size 3.5em;
  }
 
-table {
-  margin: 15px;
-  padding: 15px;
-}
 
 table {
-  border-collapse: separate;
-  border-spacing: 5px;
-  background: #000 url("gradient.gif") bottom left repeat-x;
-  color: #fff;
+  width: 100%;
+  border: 1px solid #000;
 }
-td, th {
-  background: #fff;
-  color: rgb(111, 10, 241);
+th, td {
+  width: 25%;
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid #000;
+  border-collapse: collapse;
+  padding: 0.3em;
 }
-
+caption {
+  padding: 0.3em;
+}
 .paginaweb{
   width:960px;
   margin:auto;
 }
 
 p.titulos{
-  font-family: fantasy;
+  font-family: cursive;
 }
