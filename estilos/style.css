@@ -78,12 +78,23 @@ p {
 }
 
 body { 
-  font: size 3.5em;em;
+  font: size 3.5em;
  }
 
 table {
   margin: 15px;
   padding: 15px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 5px;
+  background: #000 url("gradient.gif") bottom left repeat-x;
+  color: #fff;
+}
+td, th {
+  background: #fff;
+  color: rgb(111, 10, 241);
 }
 
 .paginaweb{
