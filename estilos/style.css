@@ -61,7 +61,7 @@ table {
   width: 100%;
   border: 0.5px solid rgb(255, 254, 254);
 }
-th, td {
+td {
   width: 25%;
   text-align: left;
   vertical-align: top;
