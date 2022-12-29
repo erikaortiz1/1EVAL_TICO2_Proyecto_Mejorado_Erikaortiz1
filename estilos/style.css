@@ -99,3 +99,8 @@ caption {
 p.titulos{
   font-family: cursive;
 }
+
+
+a:link {
+  color: #53012a;
+}
